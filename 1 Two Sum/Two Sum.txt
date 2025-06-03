@@ -27,5 +27,7 @@ Constraints:
     -109 <= nums[i] <= 109
     -109 <= target <= 109
     Only one valid answer exists.
+提示：数组个数在2到104之间，数组元素和目标值的范围在-109到109之间。只会有一个有效的答案。
 
 Follow-up: Can you come up with an algorithm that is less than O(n2) time complexity?
+进阶：你能想出一个时间复杂度小于O(n^2)的算法吗？
