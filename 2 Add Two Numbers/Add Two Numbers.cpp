@@ -12,6 +12,7 @@ class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
         bool b = false;
-
+        b = true;
+        b = false;
     }
 };
